@@ -17,23 +17,22 @@ const KojaemRouter = () => {
         <AnimateSharedLayout>
             <AnimatePresence exitBeforeEnter>
         <Switch location={location} key={location.pathname}>
-          <Route exact path="/kojaem/HOME"
+          <Route exact path="/"
             render={() => <Gallery selected={selected} setSelected={setSelected}/>}
             >
           </Route>
-          <Route exact path="/kojaem/MUSINSA"
+          <Route path="/MUSINSA"
             render={() => <Musinsa selected={selected} setSelected={setSelected}/>}
           />
-          <Route exact path="/kojaem/COVERNAT" 
+          <Route path="/COVERNAT" 
             render={() => <Covernat selected={selected} setSelected={setSelected}/>}   
           />
-          <Route exact path="/kojaem/KIRSH"
+          <Route path="/KIRSH"
             render={() => <Kirsh selected={selected} setSelected={setSelected}/>}   
           />
-          <Route exact path="/kojaem/LMC"
+          <Route path="/LMC"
             render={() => <Lmc selected={selected} setSelected={setSelected}/>}   
           />
-          <Route path="/kojaem">Not Found</Route>
         </Switch>
         </AnimatePresence>
         </AnimateSharedLayout>

@@ -24,8 +24,8 @@ export const MenuList = ({ color, isSelected, menuItem }: Props) => {
   return (
     <>
       <MenuItem style={{ backgroundColor: color }}>
-        <MenuItemLink exact to={`/kojaem/${menuItem}`}>
-          {menuItem}
+        <MenuItemLink exact to={`/${menuItem}`}>
+          {menuItem ? menuItem : "HOME"}
         </MenuItemLink>
         {isSelected && (
           <Outline

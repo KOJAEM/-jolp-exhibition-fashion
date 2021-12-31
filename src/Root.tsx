@@ -4,8 +4,8 @@ import Kojaem from 'pages/kojaem/KojaemRouter';
 
 function Root() {
   return (
-    <BrowserRouter>
-        <Route path="/kojaem" component={Kojaem} />
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Route path="/" component={Kojaem} />
     </BrowserRouter>
   );
 }

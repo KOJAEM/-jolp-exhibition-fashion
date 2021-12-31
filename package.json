@@ -2,7 +2,7 @@
   "name": "jolp-exhibition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://artvelop.github.io/kojaem/HOME",
+  "homepage": "https://kojaem.github.io/jolp-exhibition-fashion/",
   "dependencies": {
     "@babel/core": "^7.16.7",
     "@emotion/react": "^11.4.1",

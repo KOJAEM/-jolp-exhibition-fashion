@@ -2,7 +2,7 @@ import { ReactNode, useEffect } from "react";
 import styled from "@emotion/styled";
 import { MenuList } from "./index";
 
-const menuItems: string[] = ["HOME", "MUSINSA", "COVERNAT", "KIRSH", "LMC"];
+const menuItems: string[] = ["", "MUSINSA", "COVERNAT", "KIRSH", "LMC"];
 
 const colors: string[] = [
   "#5aaddd",
@@ -21,7 +21,13 @@ type Props = {
 export const LayoutContainer = ({ selected, setSelected, children }: Props) => {
   useEffect(() => {
     const link = window.location.pathname.split('/');
-    setSelected(link[link.length-1]);
+    console.log(link);
+    if(link.length == 3) {
+      setSelected(link[2])
+    }
+    else {
+      setSelected("")
+    }
   }, [setSelected])
   return (
     <RootWrapper>

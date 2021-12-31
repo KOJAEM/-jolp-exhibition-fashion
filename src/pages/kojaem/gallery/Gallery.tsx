@@ -39,7 +39,6 @@ const Gallery = ({ selected, setSelected }: Props) => {
               key={name}
               name={name}
               linkName={getLinkName(name)}
-              setSelected={setSelected}
             />
           ))}
         </Thumbnails>
