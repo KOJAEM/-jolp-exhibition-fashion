@@ -21,8 +21,7 @@ type Props = {
 export const LayoutContainer = ({ selected, setSelected, children }: Props) => {
   useEffect(() => {
     const link = window.location.pathname.split('/');
-    console.log(link);
-    if(link.length == 3) {
+    if(link.length === 3) {
       setSelected(link[2])
     }
     else {
