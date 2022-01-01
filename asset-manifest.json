@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jolp-exhibition-fashion/static/css/main.785d72ff.chunk.css",
-    "main.js": "/jolp-exhibition-fashion/static/js/main.38b727cd.chunk.js",
-    "main.js.map": "/jolp-exhibition-fashion/static/js/main.38b727cd.chunk.js.map",
+    "main.js": "/jolp-exhibition-fashion/static/js/main.190eb283.chunk.js",
+    "main.js.map": "/jolp-exhibition-fashion/static/js/main.190eb283.chunk.js.map",
     "runtime-main.js": "/jolp-exhibition-fashion/static/js/runtime-main.e075b7cf.js",
     "runtime-main.js.map": "/jolp-exhibition-fashion/static/js/runtime-main.e075b7cf.js.map",
     "static/js/2.6b3541aa.chunk.js": "/jolp-exhibition-fashion/static/js/2.6b3541aa.chunk.js",
@@ -13,10 +13,10 @@
     "static/css/main.785d72ff.chunk.css.map": "/jolp-exhibition-fashion/static/css/main.785d72ff.chunk.css.map",
     "static/js/2.6b3541aa.chunk.js.LICENSE.txt": "/jolp-exhibition-fashion/static/js/2.6b3541aa.chunk.js.LICENSE.txt",
     "static/media/ChangingSeasonImage1.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage1.e51a97ae.jpg",
-    "static/media/ChangingSeasonImage1Click.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage1Click.fb7e13ca.jpg",
-    "static/media/ChangingSeasonImage2.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage2.d8634c59.jpg",
-    "static/media/ChangingSeasonImage2Click.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage2Click.ed072f26.jpg",
-    "static/media/ChangingSeasonImage3.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage3.ff155dd4.jpg",
+    "static/media/ChangingSeasonImage1Click.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage1Click.e079b62d.jpg",
+    "static/media/ChangingSeasonImage2.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage2.4f960c41.jpg",
+    "static/media/ChangingSeasonImage2Click.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage2Click.8a8ab407.jpg",
+    "static/media/ChangingSeasonImage3.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage3.cc8d8f2b.jpg",
     "static/media/ChangingSeasonImage3Click.jpg": "/jolp-exhibition-fashion/static/media/ChangingSeasonImage3Click.dc0b8c46.jpg",
     "static/media/Covernat.jpg": "/jolp-exhibition-fashion/static/media/Covernat.a401de33.jpg",
     "static/media/CovernatDescription.jpg": "/jolp-exhibition-fashion/static/media/CovernatDescription.8e76b915.jpg",
@@ -31,7 +31,7 @@
     "static/media/SummerImage1.jpg": "/jolp-exhibition-fashion/static/media/SummerImage1.9170d8c4.jpg",
     "static/media/SummerImage1Click.jpg": "/jolp-exhibition-fashion/static/media/SummerImage1Click.bd2193a4.jpg",
     "static/media/SummerImage2.jpg": "/jolp-exhibition-fashion/static/media/SummerImage2.f61d38ac.jpg",
-    "static/media/SummerImage2Click.jpg": "/jolp-exhibition-fashion/static/media/SummerImage2Click.aaced3e1.jpg",
+    "static/media/SummerImage2Click.jpg": "/jolp-exhibition-fashion/static/media/SummerImage2Click.ce61147a.jpg",
     "static/media/SummerImage3.jpg": "/jolp-exhibition-fashion/static/media/SummerImage3.b968bef2.jpg",
     "static/media/SummerImage3Click.jpg": "/jolp-exhibition-fashion/static/media/SummerImage3Click.f664a860.jpg",
     "static/media/WinterImage1.jpg": "/jolp-exhibition-fashion/static/media/WinterImage1.753c5e00.jpg",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.e075b7cf.js",
     "static/js/2.6b3541aa.chunk.js",
     "static/css/main.785d72ff.chunk.css",
-    "static/js/main.38b727cd.chunk.js"
+    "static/js/main.190eb283.chunk.js"
   ]
 }
