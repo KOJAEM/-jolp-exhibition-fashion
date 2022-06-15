@@ -12,5 +12,12 @@
 패션에 관심없는 사람들도 편안하게 둘러 볼 수 있도록 만들었습니다.<br /><br />
 첫 화면에서 사진이나 상단바의 버튼을 눌러 해당 브랜드 페이지로 이동하시면 됩니다.
 
+<br />
 
+페이지 보기<br />
 https://kojaem.github.io/jolp-exhibition-fashion/
+
+<br />
+
+작업 repository<br />
+https://github.com/artvelop/jolp-exhibition/tree/master
